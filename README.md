@@ -1,3 +1,3 @@
 # golang
 practise golang
-series of go lang practice
+series of golang, hands on
